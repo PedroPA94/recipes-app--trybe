@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-## Adicionar GIF da aplicação
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/75266925/194889837-08362920-12f6-4e28-b107-f2487ea5c852.gif)
 
 </div>
 
@@ -17,6 +17,8 @@ By using agile methodologies, mainly SCRUM and kanban, the group got into a very
 This application uses [theMealDB](https://www.themealdb.com/) and [theCocktailDB](https://www.thecocktaildb.com/) APIs. 
 
 All the files we worked on are in the ```/src``` folder.
+
+<b>Important:</b> the app was developed in a resolution of 360x640. It may not be compatible with different sizes.
 
 The team: [@DanubioRafa](https://github.com/DanubioRafa), [@edmcorrea](https://github.com/edmcorrea), [@ataidemarcelo](https://github.com/ataidemarcelo) and [@felupee](https://github.com/felupee) 
 
