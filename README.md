@@ -8,6 +8,8 @@
 
 This app allows the user to search for food or drink recipes, share them, add them to the favorites list and, most importantly, cook/prepare recipes. Each recipe page includes a list of all the necessary ingredients, a video tutorial, and the recipe itself.
 
+[Check it out!](https://pedropa94.github.io/recipes-app--trybe/) (recommended resolution: 360x640)
+
 ## About
 
 This was a group project developed while studying Front-end web development [@betrybe](https://github.com/betrybe). This was the final project for the Front-end certificate. The group got an approval of 100% on this project's requirements.
@@ -42,7 +44,7 @@ The team: [@DanubioRafa](https://github.com/DanubioRafa), [@edmcorrea](https://g
 
 ## Installation
 
-- Install the dependencies with ``` npm install ```
+- Install the dependencies with ``` npm install ``` (requires node on version 16)
 - Run the app with ```npm start```
 - Run the tests we made with ```npm test``` or ```npm test <test name>```
 - Run the project's requirements tests with ```npm run cy``` or ```npm run cy:open``` (might not show 100% approval as we made changes after finishing it)
