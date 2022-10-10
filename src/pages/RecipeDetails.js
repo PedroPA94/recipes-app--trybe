@@ -1,3 +1,4 @@
+/* eslint-disable sonarjs/cognitive-complexity */
 import React, { useEffect, useState } from 'react';
 import { connect } from 'react-redux';
 import { useHistory, useRouteMatch } from 'react-router-dom';

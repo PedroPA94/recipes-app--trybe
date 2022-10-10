@@ -1,7 +1,8 @@
+/* eslint-disable react/jsx-max-depth */
 import PropTypes from 'prop-types';
 import React from 'react';
-import '../styles/login.css';
 import imgLogo from '../images/HungryEnd.png';
+import '../styles/login.css';
 
 class Login extends React.Component {
   constructor() {
@@ -60,7 +61,7 @@ class Login extends React.Component {
               </span>
               <div className="wrap-input">
                 <input
-                  className={email !== "" ? 'has-val' : 'input'}
+                  className={ email !== '' ? 'has-val' : 'input' }
                   data-testid="email-input"
                   type="email"
                   name="email"
@@ -72,7 +73,7 @@ class Login extends React.Component {
 
               <div className="wrap-input">
                 <input
-                  className={password !== "" ? 'has-val' : 'input'}
+                  className={ password !== '' ? 'has-val' : 'input' }
                   data-testid="password-input"
                   type="password"
                   name="password"
