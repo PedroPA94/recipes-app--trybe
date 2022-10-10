@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recipes-app--trybe/static/css/main.a8e69a8a.css",
+    "main.js": "/recipes-app--trybe/static/js/main.0a61a706.js",
+    "static/media/logoGif1.gif": "/recipes-app--trybe/static/media/logoGif1.ea49308c958ff5404cec.gif",
+    "static/media/mealIconNew3.png": "/recipes-app--trybe/static/media/mealIconNew3.3654320cad4b44e7108e.png",
+    "static/media/drinkIconNew2.png": "/recipes-app--trybe/static/media/drinkIconNew2.1f17167ce97a6b2e2ea9.png",
+    "static/media/logoReverse.png": "/recipes-app--trybe/static/media/logoReverse.8dd095216e72b5f76128.png",
+    "static/media/whiteHeartIcon.png": "/recipes-app--trybe/static/media/whiteHeartIcon.107e16655d5225fca547.png",
+    "static/media/searchIconNew.png": "/recipes-app--trybe/static/media/searchIconNew.18af649be59c8f49d7d9.png",
+    "static/media/shareIcon.png": "/recipes-app--trybe/static/media/shareIcon.dbc5e438fb38c5b4b8cf.png",
+    "static/media/blackHeartIcon.png": "/recipes-app--trybe/static/media/blackHeartIcon.6bbf1ca77c9b741c5531.png",
+    "static/media/profileIconNew2.png": "/recipes-app--trybe/static/media/profileIconNew2.10718642e157900a49d9.png",
+    "static/media/HungryEnd.png": "/recipes-app--trybe/static/media/HungryEnd.fe2671b34644589b563b.png",
+    "index.html": "/recipes-app--trybe/index.html",
+    "main.a8e69a8a.css.map": "/recipes-app--trybe/static/css/main.a8e69a8a.css.map",
+    "main.0a61a706.js.map": "/recipes-app--trybe/static/js/main.0a61a706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e69a8a.css",
+    "static/js/main.0a61a706.js"
+  ]
+}
