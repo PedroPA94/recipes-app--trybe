@@ -27,7 +27,7 @@ The team: [@DanubioRafa](https://github.com/DanubioRafa), [@edmcorrea](https://g
 #### My main contributions to the project
  - Develop the searchbar
  - Implement the favorite and share buttons
- - Code the recipe in progress page
+ - Code the "recipe in progress" page
  - Create the custom Hook useGetRecipeForDetails
  - Write tests
  - Add CSS, mainly on the recipe details, recipe in progress and profile pages
