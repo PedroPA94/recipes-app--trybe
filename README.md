@@ -14,7 +14,7 @@ This app allows the user to search for food or drink recipes, share them, add th
 
 This was a group project developed while studying Front-end web development [@betrybe](https://github.com/betrybe). This was the final project for the Front-end certificate. The group got an approval of 100% on this project's requirements.
 
-By using agile methodologies, mainly SCRUM and kanban, the group got into a very good workflow and we were able to finish the project three days before the deadline. This allowed us to focus on the app design and also refactor our code. Together, we prototyped the app with Figma and then went on to styling the app with pure CSS. 
+By using agile methodologies, mainly SCRUM and kanban, the group got into a very good workflow and we were able to finish the project three days before the deadline. This allowed us to focus on the app design and also refactor our code. Together, we prototyped the app with [Figma](https://www.figma.com/file/JwzMD4Ga5xqenKlSum388P/Recipes-App?node-id=0%3A1&t=f6osVIBHr62v3UmE-1) and then went on to styling the app with pure CSS. 
 
 This application uses [theMealDB](https://www.themealdb.com/) and [theCocktailDB](https://www.thecocktaildb.com/) APIs. 
 
